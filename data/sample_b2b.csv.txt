@@ -1,0 +1,7 @@
+CustomerID,Date,Revenue,Region
+C1,2024-01-15,500,North
+C2,2024-01-20,800,South
+C1,2024-02-10,450,North
+C3,2024-02-15,1200,West
+C2,2024-03-05,600,South
+C3,2024-03-18,900,West
