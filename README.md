@@ -57,6 +57,12 @@ The objective was to **analyze B2B client transaction data** to identify busines
 **Outcome:**  
 This project strengthened my **EDA (Exploratory Data Analysis)** skills and demonstrated how **data visualization simplifies complex B2B datasets into actionable insights** for business strategy.
 
----
-              
+---<img width="978" height="559" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/bc8604a4-97b2-40a0-8215-deb3237eeb38" />
 
+
+<img width="862" height="494" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/7de71c25-7165-4d81-8ad0-c69817d49f02" />
+
+
+<img width="1040" height="578" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/74833958-6d09-4b5f-8a54-9c56e2b5c804" />
+<img width="924" height="542" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/24478a7c-232b-4616-a513-1d1a424246bd" />
+<img width="1163" height="564" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/3c04a3f6-1cc5-4b23-815e-b5201f90427a" />
