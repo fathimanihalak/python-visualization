@@ -1,2 +1,2 @@
 # python-visualization
-Python project for data preprocessing and visualization using Pandas, Matplotlib, and Seaborn on B2B datasets.
+Internship project for data preprocessing & visualization on B2B datasets using Python (Pandas, Matplotlib, Seaborn).
